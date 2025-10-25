@@ -221,3 +221,5 @@ How consensus ensures integrity and immutability.
 
 Next step: Integrate these insights into Bitcoin Core RPC automation or monitoring scripts to extend
 infrastructure-level understanding.
+
+
